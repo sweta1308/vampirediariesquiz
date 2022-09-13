@@ -1,8 +1,14 @@
 # THE VAMPIRE DIARIES QUIZ
 
-I am a great fan of this show. I want to see am I the only one or there are others like me! This is a Node.js CLI app which has the quiz.
+A Node.js CLI appp to test how much you know about this show.
 
 ## Dependencies
 
 1. readline-sync
 2. chalk
+
+## Features
+
+* Used style to make it attractive.
+* Score will be updated after answering each question.
+* At the end, you can check whether you have made it to leaderboard.
